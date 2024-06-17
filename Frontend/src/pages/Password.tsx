@@ -148,7 +148,7 @@ const Password: React.FC = () => {
 
       <IonContent fullscreen>
         <div className="image-container">
-          <img src="../public/mascota.png" alt="Mascota Spark-E" />
+          <img src="../public/burbujas.png" alt="burbu" />
         </div>
         
         <form className="ion-padding" onSubmit={handleSubmit} noValidate>

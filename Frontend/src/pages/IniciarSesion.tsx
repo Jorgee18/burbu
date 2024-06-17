@@ -135,7 +135,7 @@ const IniciarSesion: React.FC = () => {
       <Header title="Iniciar Sesión"/>
       <IonContent fullscreen>
         <div className="image-container">
-          <img src="../public/mascota.png" alt="Mascota Spark-E" />
+          <img src="../public/burbujas.png" alt="burbu" />
         </div>
 
         <p className="press-start welcome"><strong>Bienvenido</strong></p>

@@ -26,4 +26,10 @@
         align-items: center; 
         height: 6vh;
     }
+    
+    .image-container{
+        width: 30%;
+        margin: auto;
+        margin-top: 2%;
+    }
 }
