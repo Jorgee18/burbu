@@ -6,10 +6,9 @@ import TerminosDeServicio from './pages/TerminosDeServicio';
 import Registrarse from './pages/Registrarse';
 import Password from './pages/Password';
 import Menu from './pages/Menu';
-import Notificaciones from './pages/Notificaciones';
-import Temperatura from './pages/Temperatura';
-import Comportamiento from './pages/Comportamiento';
-import Gas from './pages/Gas';
+import Publicaciones from './pages/Publicaciones';
+import Eventos from './pages/Eventos';
+import Grupos from './pages/Grupos';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -68,24 +67,20 @@ const App: React.FC = () => (
           <Menu />
         </Route>
 
-        <Route exact path="/notificaciones">
-          <Notificaciones />
-        </Route>
-
-        <Route exact path="/temperatura">
-          <Temperatura />
-        </Route>
-
-        <Route exact path="/gas">
-          <Gas />
-        </Route>
-
-        <Route exact path="/comportamiento">
-          <Comportamiento />
-        </Route>
-
         <Route exact path="/">
           <Redirect to="/iniciar-sesion" />
+        </Route>
+
+        <Route exact path="/publicaciones">
+          <Publicaciones/>
+        </Route>
+
+        <Route exact path="/grupos">
+          <Grupos/>
+        </Route>
+
+        <Route exact path="/Eventos">
+          <Eventos/>
         </Route>
 
       </IonRouterOutlet>
