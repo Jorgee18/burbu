@@ -15,7 +15,7 @@
 </div>
 <div class="project">
 
-  <h3>Integrantes</h3>
+  <h2>Integrantes</h2>
   <ul>
     <li>Jorge Villarreal</li>
     <li>Elias Bernales</li>
@@ -23,7 +23,7 @@
     <li>Felipe Zepeda</li>
   </ul>
 
-  <h3>Descripción</h3>
+  <h2>Descripción</h2>
   <p>
     Burbu es una aplicación móvil que conecta usuarios según las zonas que frecuentan,
     facilitando la compra y venta de productos locales, la creación de eventos y la
@@ -31,7 +31,7 @@
     la dependencia de servicios de envío o pagos externos.
   </p>
 
-  <h3>Funcionalidades</h3>
+  <h2>Funcionalidades</h2>
   <ul>
     <li><strong>Inicio de sesión y registro:</strong> Permite crear cuentas o ingresar con credenciales, gestionando datos personales y ubicación.</li>
     <li><strong>Grupos locales:</strong> Agrupa automáticamente usuarios según zonas frecuentes.</li>
@@ -41,7 +41,7 @@
     <li><strong>Notificaciones y alertas:</strong> Historial de actividades relevantes con detalles de eventos, productos y mensajes.</li>
   </ul>
 
-  <h3>Estructura de Datos</h3>
+  <h2>Estructura de Datos</h2>
   <ul>
     <li><strong>Usuario:</strong> Nombre, correo electrónico, RUT, región, comuna y contraseña.</li>
     <li><strong>Región y Comuna:</strong> Cada usuario pertenece a una comuna, cada comuna a una región.</li>
@@ -50,13 +50,13 @@
     <li><strong>Notificación:</strong> Identificador, fecha, hora y descripción.</li>
   </ul>
 
-  <h3>Base de Datos</h3>
+  <h2>Base de Datos</h2>
   <p>
     Se utilizará PostgreSQL, aprovechando su escalabilidad y capacidad para manejar
     relaciones entre usuarios, grupos, productos, eventos y notificaciones.
   </p>
 
-  <h3>Patrones de Diseño</h3>
+  <h2>Patrones de Diseño</h2>
   <ul>
     <li><strong>Back button:</strong> Navegación histórica entre pantallas.</li>
     <li><strong>Inline Validation:</strong> Validación en tiempo real de formularios.</li>
