@@ -1,12 +1,25 @@
 # burbu
+<div align="center">
+
+[![css3-badge-sm]][css3-web]
+[![figma-badge-sm]][figma-web]
+[![git-badge-sm]][git-web]
+[![github-badge-sm]][github-web]
+[![html5-badge-sm]][html5-web]
+[![js-badge-sm]][js-web]
+[![vscode-badge-sm]][vscode-web]    
+
+[![ios-development-badge-sm]][ios-development-web] [![android-development-badge-sm]][android-development-web]
+
+</div>
 <div class="project">
-  <h2>Burbu</h2>
 
   <h3>Integrantes</h3>
   <ul>
     <li>Jorge Villarreal</li>
-    <li>Otro integrante 1</li>
-    <li>Otro integrante 2</li>
+    <li>Elias Bernales</li>
+    <li>Fernando Arancibia</li>
+    <li>Felipe Zepeda</li>
   </ul>
 
   <h3>Descripción</h3>
