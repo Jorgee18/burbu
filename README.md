@@ -1,15 +1,16 @@
 # burbu
 <div align="center">
 
-[![css3-badge-sm]][css3-web]
-[![figma-badge-sm]][figma-web]
-[![git-badge-sm]][git-web]
-[![github-badge-sm]][github-web]
-[![html5-badge-sm]][html5-web]
-[![js-badge-sm]][js-web]
-[![vscode-badge-sm]][vscode-web]    
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
+![iOS](https://img.shields.io/badge/iOS_Development-000000?logo=ios&logoColor=fff&style=flat)
+![Android](https://img.shields.io/badge/Android_Development-3DDC84?logo=android&logoColor=fff&style=flat)
 
-[![ios-development-badge-sm]][ios-development-web] [![android-development-badge-sm]][android-development-web]
 
 </div>
 <div class="project">
